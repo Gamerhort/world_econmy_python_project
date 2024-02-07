@@ -1,0 +1,12 @@
+2024-Feb-07-18:04:45,ETL Job Started
+2024-Feb-07-18:04:45,Extract phase Started
+2024-Feb-07-18:04:47,Extract phase Ended
+2024-Feb-07-18:04:47,Transform phase Started
+2024-Feb-07-18:04:47,Transform phase Ended
+2024-Feb-07-18:04:47,Load phase Started
+2024-Feb-07-18:04:47,Load phase Ended
+2024-Feb-07-18:04:47,Load To DataBase phase Started
+2024-Feb-07-18:04:47,Load TO DataBase phase Ended
+2024-Feb-07-18:04:47,Extract from  DataBase phase Started
+2024-Feb-07-18:04:47,Extract from  DataBase phase Ended
+2024-Feb-07-18:04:47,ETL Job Ended
